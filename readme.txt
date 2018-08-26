@@ -5,5 +5,4 @@ Git tracks changes.
 I am shensong.
 very good.
 1111111111111111111111
-<<<<<<< HEAD
 Creating a new branch and quick!
